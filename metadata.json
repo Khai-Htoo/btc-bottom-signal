@@ -1,0 +1,5 @@
+{
+  "name": "BTC Bottom Signals",
+  "description": "A real-time Bitcoin market bottom detector using 8 key technical and on-chain signals.",
+  "requestFramePermissions": ["notifications"]
+}
